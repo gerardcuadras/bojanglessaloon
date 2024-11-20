@@ -1,0 +1,6 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+13:46:09	0/0	---M--	200	added ('OK')	text/plain	date:Sat,%2016%20Nov%202024%2012:46:08%20GMT	https://bojanglessaloon.com/robots.txt		(from )
+13:46:10	249552/249552	---MCZ	200	added ('OK')	text/html	date:Sat,%2016%20Nov%202024%2012:46:10%20GMT	https://bojanglessaloon.com/	bojanglessaloon/bojanglessaloon/bojanglessaloon.com/index.html	(from )
+13:46:11	249548/249548	---MCZ	200	added ('OK')	text/html	date:Sat,%2016%20Nov%202024%2012:46:11%20GMT	https://bojanglessaloon.com/home	bojanglessaloon/bojanglessaloon/bojanglessaloon.com/home.html	(from https://bojanglessaloon.com/)
+13:46:11	118308/118308	---MCZ	200	added ('OK')	text/html	date:Sat,%2016%20Nov%202024%2012:46:11%20GMT	https://bojanglessaloon.com/contact-us	bojanglessaloon/bojanglessaloon/bojanglessaloon.com/contact-us.html	(from https://bojanglessaloon.com/)
+13:46:13	144561/144561	---MCZ	200	added ('OK')	text/html	date:Sat,%2016%20Nov%202024%2012:46:12%20GMT	https://bojanglessaloon.com/calendar	bojanglessaloon/bojanglessaloon/bojanglessaloon.com/calendar.html	(from https://bojanglessaloon.com/)
